@@ -1,0 +1,2 @@
+Only "Youtube" and "Twitch" link formats are supported.
+by qualzed.
